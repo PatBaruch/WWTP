@@ -97,17 +97,6 @@ A single, self-contained Jupyter notebook that walks through:
 
 Please document all analysis choices and assumptions clearly in the notebook.
 
----
-
-## Contact
-
-- **Main Client:**  
-  Bente Sinke — sink0049@hz.nl
-
-- **Research Leads:**  
-  Mischa Beckers, Gert Jacobusse, Jolène Cijsouw, William Hazel, Loek van der Linde
-
----
 
 ## License
 
